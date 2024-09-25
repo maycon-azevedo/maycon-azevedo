@@ -3,14 +3,14 @@
 👋 Hello! I'm Maycon Azevedo, a backend software developer passionate about technology and innovation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maycondeazevedo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green.svg?style=flat-square&logo=github)](https://github.com/endrewazevedo)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green.svg?style=flat-square&logo=github)](https://github.com/maycon-azevedo)
 
 ## 🚀 About Me
 
 - 💻 Backend Developer since 2022.
 - 🐍 Experience in Python, JavaScript, TypeScript, and NestJS.
-- 🌐 [LinkedIn](https://www.linkedin.com/in/maycondeazevedo/)
-- 🌐 [GitHub](https://github.com/endrewazevedo)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/maycon-azevedo/)
+- 🌐 [GitHub](https://github.com/maycon-azevedo)
 
 ## 🛠️ Technologies and Tools
 
@@ -27,15 +27,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=endrewazevedo&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maycon-azevedo&show_icons=true&hide_border=true)
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endrewazevedo&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maycon-azevedo&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=endrewazevedo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maycon-azevedo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact Me
 
