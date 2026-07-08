@@ -1,12 +1,10 @@
 # Maycon Azevedo
 
-Fullstack Software Engineer at **SIDIA (Samsung R&D)** — Manaus, AM.
+Fullstack Developer & Software Engineer — Manaus, AM.
 
-Building scalable systems with Python, TypeScript, React and .NET since 2022. Reference engineer in a 7-dev team — architecture decisions, code review, and mentoring.
+Building scalable systems with Python, TypeScript, React and .NET since 2022.
 
-Software Engineering student at UFAM.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycondeazevedo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-azevedo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maycon.cazevedo@gmail.com)
 
 ---
