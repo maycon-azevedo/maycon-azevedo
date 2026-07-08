@@ -77,9 +77,3 @@ YouTube video transcription and summarization tool with async processing.
 </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maycon-azevedo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycon-azevedo&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" />
-</p>
